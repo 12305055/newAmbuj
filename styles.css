@@ -1,0 +1,105 @@
+body{
+   
+    background-color: rgb(237, 225, 208);
+}
+.navbar ul {
+    list-style: none;
+    background-color: rgb(153, 227, 153);
+    padding: 0;
+    text-align: center;;
+}
+
+.navbar ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    color: red;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.image{
+
+    width: 150px;
+    border-radius: 50%;
+    border: 2.5px solid red
+    
+}
+.intership1 span{
+    float:right;
+}
+.project1 span{
+    float:right;
+}
+.marg{
+    
+    line-height:1.8 ;
+}
+.certificate1 span{
+    float:right;
+}
+
+.btn{
+    background-color: rgb(196, 229, 201);
+    color:blue;
+    border-radius: 40%;
+    cursor:pointer;
+}
+.education span{
+    margin-left: 200px;
+}
+.image1{
+    width:500px;
+    height:200px;
+   
+}
+.image1a{
+    float:right;
+}
+.image1b{
+    float:right;
+}
+form{
+    border: 2px solid;
+    width: 300px;
+    padding: 10px;
+}
+.h{
+    text-align: center;
+}
+.button{
+    background-color:pink;
+    box-shadow: 0px 0px 10px blue;
+    cursor:pointer;
+}
+
+.hes{
+    color: red;
+    font-size: 25px;
+}
+.sadokhar span{
+    float: right; 
+}
+.sp-college span{
+    float: right;
+}
+.shankar-college span{
+    
+    margin-left: 215px;
+}
+.lovely span{
+    margin-left:150px;
+}
+footer{
+    padding: 2%;
+    height: 60px;
+    background-color: gray;
+    text-align: center;
+}
+.github{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
